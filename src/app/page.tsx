@@ -37,7 +37,7 @@ export default function HomePage() {
         </div>
         
         <div className="space-y-2">
-          <h2 className="text-xl font-semibold text-white">DineFlow</h2>
+          <h2 className="text-xl font-semibold text-white">Dishly </h2>
           <p className="text-sm text-slate-400">Setting up your session...</p>
         </div>
       </div>
