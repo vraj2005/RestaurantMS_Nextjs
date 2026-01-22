@@ -112,6 +112,8 @@ export default function LoginPage() {
             <div className="w-16 h-16 rounded-xl bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center shadow-md">
               <ChefHat className="text-white" size={28} />
             </div>
+            <h1 className="text-2xl font-semibold text-gray-900">Dishly</h1>
+            <p className="text-sm text-gray-500">Sign in to manage your restaurant</p>
           </div>
 
           <div className="space-y-4">
