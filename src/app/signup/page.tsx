@@ -100,7 +100,7 @@ export default function SignupPage() {
             <div className="w-16 h-16 rounded-xl bg-gradient-to-br from-purple-600 to-blue-500 flex items-center justify-center shadow-md">
               <ChefHat className="text-white" size={28} />
             </div>
-            <h1 className="text-2xl font-semibold text-gray-900">Join DineFlow POS</h1>
+            <h1 className="text-2xl font-semibold text-gray-900">Join Dishly POS</h1>
             <p className="text-sm text-gray-500">Create your account to get started</p>
           </div>
 

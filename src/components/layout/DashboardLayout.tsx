@@ -72,7 +72,7 @@ export default function DashboardLayout({ children }: { children: React.ReactNod
       <aside className="w-64 bg-white border-r border-gray-200 flex flex-col fixed h-full">
         <div className="p-6 border-b border-gray-100">
           <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">
-            DineFlow POS
+            Dishly POS
           </h1>
           <p className="text-xs text-gray-500 mt-1">Restaurant Management</p>
         </div>

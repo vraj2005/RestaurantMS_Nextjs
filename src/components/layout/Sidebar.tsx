@@ -27,7 +27,7 @@ export default function Sidebar() {
     <aside className="w-64 shrink-0 bg-white border-r border-gray-200 min-h-screen p-6 flex flex-col">
       <div className="mb-8">
         <h1 className="text-2xl font-semibold bg-gradient-to-r from-purple-600 to-blue-500 bg-clip-text text-transparent">
-          DineFlow POS
+          Dishly POS
         </h1>
         <p className="text-xs text-gray-500 mt-1">Restaurant Management</p>
       </div>
